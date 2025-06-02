@@ -15,9 +15,6 @@ jobs:
           kernel-branch: lineage-21
           config: lineage-msm8998-yoshino-lilac_defconfig
           arch: arm64
-          aosp-gcc: true
-          aosp-clang: true
           android-version: 14
-          aosp-clang-version: r487747c
           anykernel3: true
           anykernel3-url: https://github.com/osm0sis/AnyKernel3
